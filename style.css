@@ -1,0 +1,61 @@
+body {
+    background-color: midnightblue;
+    margin: 0%;
+    text-align: center;
+}
+
+h1 {
+    color: azure;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: blueviolet;
+    margin-top: 150px;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: cornflowerblue;
+    margin: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h4 {
+    color: cornflowerblue;
+    margin-top: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
+
+p { 
+    color: thistle;
+    margin: 25px 50px; 
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    color: aliceblue;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+.footer {
+    margin: 0%
+}
